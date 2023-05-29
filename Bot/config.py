@@ -1,2 +1,2 @@
-login = 'kampusMISIS@yandex.ru'
+login = "kampusMISIS@yandex.ru"
 password = "wytkdmwihnqcthqx"
